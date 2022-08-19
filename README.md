@@ -1,6 +1,6 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 <p align="left"> 
-   <a href="https://komarev.com/ghpvc/?username=melisuzu&color=blueviolet" alt="melisuzu" />
-  </a>
    <a href="http://twitter.com/melisuzu_n">
     <img height="20" src="https://img.shields.io/twitter/follow/melisuzu_n?label=twitter&style=social" />
   </a>
