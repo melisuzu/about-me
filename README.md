@@ -8,17 +8,17 @@
 
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisuzu&layout=compact&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melisuzu&layout=compact&theme=spring"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=melisuzu&show_icons=true&theme=tokyonight" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=melisuzu&show_icons=true&theme=spring" />
   </a>
 </p>
 
 
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=melisuzu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api?username=melisuzu&show_icons=true&theme=tokyonight)
+[![](https://github-readme-stats.vercel.app/api?username=melisuzu&show_icons=true&theme=spring)
 
  -->
 
