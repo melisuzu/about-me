@@ -1,5 +1,5 @@
 <p align="left"> 
-  <a href="https://github.com/yk-mt12/yk-mt12/">
+  <a href="https://github.com/melisuzu/melisuzu/">
     <img src="https://komarev.com/ghpvc/?username=melisuzu&color=blueviolet" alt="melisuzu" />
   </a>
   <a href="http://twitter.com/melisuzu_n">
